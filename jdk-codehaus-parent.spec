@@ -11,6 +11,7 @@ BuildRequires : apache-maven2
 BuildRequires : javapackages-tools
 BuildRequires : jdk-aether
 BuildRequires : jdk-aopalliance
+BuildRequires : jdk-apache-parent
 BuildRequires : jdk-atinject
 BuildRequires : jdk-bsh
 BuildRequires : jdk-cdi-api
@@ -22,6 +23,7 @@ BuildRequires : jdk-commons-io
 BuildRequires : jdk-commons-lang
 BuildRequires : jdk-commons-lang3
 BuildRequires : jdk-commons-logging
+BuildRequires : jdk-commons-parent
 BuildRequires : jdk-doxia
 BuildRequires : jdk-doxia-sitetools
 BuildRequires : jdk-enforcer
@@ -55,11 +57,13 @@ BuildRequires : jdk-plexus-utils
 BuildRequires : jdk-plexus-velocity
 BuildRequires : jdk-sisu
 BuildRequires : jdk-slf4j
+BuildRequires : jdk-snappy
 BuildRequires : jdk-snappy-java
 BuildRequires : jdk-velocity
 BuildRequires : jdk-wagon
 BuildRequires : jdk-xbean
 BuildRequires : jdk-xmlunit
+BuildRequires : jdk-xz
 BuildRequires : lxml
 BuildRequires : openjdk-dev
 BuildRequires : python3
