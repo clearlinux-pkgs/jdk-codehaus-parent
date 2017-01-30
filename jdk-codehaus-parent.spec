@@ -1,6 +1,6 @@
 Name     : jdk-codehaus-parent
 Version  : 4
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
 Source0  : http://repo1.maven.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
 Summary  : No detailed summary available
